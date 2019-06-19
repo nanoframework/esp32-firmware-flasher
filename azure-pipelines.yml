@@ -94,7 +94,7 @@ jobs:
     inputs:
       githubEndpoint: 'nanoFramework'
       githubOwner: 'nanoframework'
-      githubRepositoryName: 'nf-tool-esp32-firmware-flasher'
+      githubRepositoryName: 'esp32-firmware-flasher'
       githubTag: v$(NBGV_GitBuildVersionSimple)
       githubReleaseTitle: 'nanoFramework ESP32 firmware flasher v$(NBGV_GitBuildVersionSimple)'
       githubReleaseNotes: 'add description here'
