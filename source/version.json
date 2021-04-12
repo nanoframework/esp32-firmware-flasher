@@ -7,6 +7,7 @@
   "semVer1NumericIdentifierPadding": 3,
   "publicReleaseRefSpec": [
     "^refs/heads/master$",
+    "^refs/heads/main$",
     "^refs/heads/v\\d+(?:\\.\\d+)?$"
   ],
   "cloudBuild": {
